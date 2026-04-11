@@ -1,0 +1,676 @@
+Month,Trimester,FitnessLevel,Condition,ExerciseName,Type,DurationMin,Intensity
+1,1,Beginner,None,Gentle Walking,Cardio,20,Light
+1,1,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+1,1,Beginner,None,Swimming,Cardio,25,Moderate
+1,1,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+1,1,Beginner,None,Pelvic Floor Exercises,Strength,15,Light
+1,1,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+1,1,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+1,1,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+1,1,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+1,1,Beginner,Diabetes,Pelvic Floor Exercises,Strength,15,Light
+1,1,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+1,1,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+1,1,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+1,1,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+1,1,Beginner,Hypertension,Pelvic Floor Exercises,Strength,15,Light
+1,1,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+1,1,Beginner,Back Pain,Stretching,Flexibility,20,Light
+1,1,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+1,1,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+1,1,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+1,1,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+1,1,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+1,1,Beginner,Anemia,Swimming,Cardio,25,Moderate
+1,1,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+1,1,Beginner,Anemia,Pelvic Floor Exercises,Strength,15,Light
+1,1,Intermediate,None,Gentle Walking,Cardio,20,Light
+1,1,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+1,1,Intermediate,None,Swimming,Cardio,25,Moderate
+1,1,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+1,1,Intermediate,None,Pelvic Floor Exercises,Strength,15,Light
+1,1,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+1,1,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+1,1,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+1,1,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+1,1,Intermediate,Diabetes,Pelvic Floor Exercises,Strength,15,Light
+1,1,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+1,1,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+1,1,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+1,1,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+1,1,Intermediate,Hypertension,Pelvic Floor Exercises,Strength,15,Light
+1,1,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+1,1,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+1,1,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+1,1,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+1,1,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+1,1,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+1,1,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+1,1,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+1,1,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+1,1,Intermediate,Anemia,Pelvic Floor Exercises,Strength,15,Light
+1,1,Active,None,Gentle Walking,Cardio,20,Light
+1,1,Active,None,Prenatal Yoga,Flexibility,30,Light
+1,1,Active,None,Swimming,Cardio,25,Moderate
+1,1,Active,None,Stationary Cycling,Cardio,20,Moderate
+1,1,Active,None,Pelvic Floor Exercises,Strength,15,Light
+1,1,Active,Diabetes,Gentle Walking,Cardio,20,Light
+1,1,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+1,1,Active,Diabetes,Swimming,Cardio,25,Moderate
+1,1,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+1,1,Active,Diabetes,Pelvic Floor Exercises,Strength,15,Light
+1,1,Active,Hypertension,Gentle Walking,Cardio,20,Light
+1,1,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+1,1,Active,Hypertension,Swimming,Cardio,25,Moderate
+1,1,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+1,1,Active,Hypertension,Pelvic Floor Exercises,Strength,15,Light
+1,1,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+1,1,Active,Back Pain,Stretching,Flexibility,20,Light
+1,1,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+1,1,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+1,1,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+1,1,Active,Anemia,Gentle Walking,Cardio,20,Light
+1,1,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+1,1,Active,Anemia,Swimming,Cardio,25,Moderate
+1,1,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+1,1,Active,Anemia,Pelvic Floor Exercises,Strength,15,Light
+2,1,Beginner,None,Gentle Walking,Cardio,20,Light
+2,1,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+2,1,Beginner,None,Swimming,Cardio,25,Moderate
+2,1,Beginner,None,Water Aerobics,Cardio,30,Moderate
+2,1,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+2,1,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+2,1,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+2,1,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+2,1,Beginner,Diabetes,Water Aerobics,Cardio,30,Moderate
+2,1,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+2,1,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+2,1,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+2,1,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+2,1,Beginner,Hypertension,Water Aerobics,Cardio,30,Moderate
+2,1,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+2,1,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+2,1,Beginner,Back Pain,Stretching,Flexibility,20,Light
+2,1,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+2,1,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+2,1,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+2,1,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+2,1,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+2,1,Beginner,Anemia,Swimming,Cardio,25,Moderate
+2,1,Beginner,Anemia,Water Aerobics,Cardio,30,Moderate
+2,1,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+2,1,Intermediate,None,Gentle Walking,Cardio,20,Light
+2,1,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+2,1,Intermediate,None,Swimming,Cardio,25,Moderate
+2,1,Intermediate,None,Water Aerobics,Cardio,30,Moderate
+2,1,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+2,1,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+2,1,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+2,1,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+2,1,Intermediate,Diabetes,Water Aerobics,Cardio,30,Moderate
+2,1,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+2,1,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+2,1,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+2,1,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+2,1,Intermediate,Hypertension,Water Aerobics,Cardio,30,Moderate
+2,1,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+2,1,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+2,1,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+2,1,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+2,1,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+2,1,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+2,1,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+2,1,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+2,1,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+2,1,Intermediate,Anemia,Water Aerobics,Cardio,30,Moderate
+2,1,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+2,1,Active,None,Gentle Walking,Cardio,20,Light
+2,1,Active,None,Prenatal Yoga,Flexibility,30,Light
+2,1,Active,None,Swimming,Cardio,25,Moderate
+2,1,Active,None,Water Aerobics,Cardio,30,Moderate
+2,1,Active,None,Stationary Cycling,Cardio,20,Moderate
+2,1,Active,Diabetes,Gentle Walking,Cardio,20,Light
+2,1,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+2,1,Active,Diabetes,Swimming,Cardio,25,Moderate
+2,1,Active,Diabetes,Water Aerobics,Cardio,30,Moderate
+2,1,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+2,1,Active,Hypertension,Gentle Walking,Cardio,20,Light
+2,1,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+2,1,Active,Hypertension,Swimming,Cardio,25,Moderate
+2,1,Active,Hypertension,Water Aerobics,Cardio,30,Moderate
+2,1,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+2,1,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+2,1,Active,Back Pain,Stretching,Flexibility,20,Light
+2,1,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+2,1,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+2,1,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+2,1,Active,Anemia,Gentle Walking,Cardio,20,Light
+2,1,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+2,1,Active,Anemia,Swimming,Cardio,25,Moderate
+2,1,Active,Anemia,Water Aerobics,Cardio,30,Moderate
+2,1,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+3,1,Beginner,None,Gentle Walking,Cardio,20,Light
+3,1,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+3,1,Beginner,None,Swimming,Cardio,25,Moderate
+3,1,Beginner,None,Water Aerobics,Cardio,30,Moderate
+3,1,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+3,1,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+3,1,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+3,1,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+3,1,Beginner,Diabetes,Water Aerobics,Cardio,30,Moderate
+3,1,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+3,1,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+3,1,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+3,1,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+3,1,Beginner,Hypertension,Water Aerobics,Cardio,30,Moderate
+3,1,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+3,1,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+3,1,Beginner,Back Pain,Stretching,Flexibility,20,Light
+3,1,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+3,1,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+3,1,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+3,1,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+3,1,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+3,1,Beginner,Anemia,Swimming,Cardio,25,Moderate
+3,1,Beginner,Anemia,Water Aerobics,Cardio,30,Moderate
+3,1,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+3,1,Intermediate,None,Gentle Walking,Cardio,20,Light
+3,1,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+3,1,Intermediate,None,Swimming,Cardio,25,Moderate
+3,1,Intermediate,None,Water Aerobics,Cardio,30,Moderate
+3,1,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+3,1,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+3,1,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+3,1,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+3,1,Intermediate,Diabetes,Water Aerobics,Cardio,30,Moderate
+3,1,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+3,1,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+3,1,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+3,1,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+3,1,Intermediate,Hypertension,Water Aerobics,Cardio,30,Moderate
+3,1,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+3,1,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+3,1,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+3,1,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+3,1,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+3,1,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+3,1,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+3,1,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+3,1,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+3,1,Intermediate,Anemia,Water Aerobics,Cardio,30,Moderate
+3,1,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+3,1,Active,None,Gentle Walking,Cardio,20,Light
+3,1,Active,None,Prenatal Yoga,Flexibility,30,Light
+3,1,Active,None,Swimming,Cardio,25,Moderate
+3,1,Active,None,Water Aerobics,Cardio,30,Moderate
+3,1,Active,None,Stationary Cycling,Cardio,20,Moderate
+3,1,Active,Diabetes,Gentle Walking,Cardio,20,Light
+3,1,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+3,1,Active,Diabetes,Swimming,Cardio,25,Moderate
+3,1,Active,Diabetes,Water Aerobics,Cardio,30,Moderate
+3,1,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+3,1,Active,Hypertension,Gentle Walking,Cardio,20,Light
+3,1,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+3,1,Active,Hypertension,Swimming,Cardio,25,Moderate
+3,1,Active,Hypertension,Water Aerobics,Cardio,30,Moderate
+3,1,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+3,1,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+3,1,Active,Back Pain,Stretching,Flexibility,20,Light
+3,1,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+3,1,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+3,1,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+3,1,Active,Anemia,Gentle Walking,Cardio,20,Light
+3,1,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+3,1,Active,Anemia,Swimming,Cardio,25,Moderate
+3,1,Active,Anemia,Water Aerobics,Cardio,30,Moderate
+3,1,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+4,2,Beginner,None,Gentle Walking,Cardio,20,Light
+4,2,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+4,2,Beginner,None,Swimming,Cardio,25,Moderate
+4,2,Beginner,None,Water Aerobics,Cardio,30,Moderate
+4,2,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+4,2,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+4,2,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+4,2,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+4,2,Beginner,Diabetes,Water Aerobics,Cardio,30,Moderate
+4,2,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+4,2,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+4,2,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+4,2,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+4,2,Beginner,Hypertension,Water Aerobics,Cardio,30,Moderate
+4,2,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+4,2,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+4,2,Beginner,Back Pain,Stretching,Flexibility,20,Light
+4,2,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+4,2,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+4,2,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+4,2,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+4,2,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+4,2,Beginner,Anemia,Swimming,Cardio,25,Moderate
+4,2,Beginner,Anemia,Water Aerobics,Cardio,30,Moderate
+4,2,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+4,2,Intermediate,None,Gentle Walking,Cardio,20,Light
+4,2,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+4,2,Intermediate,None,Swimming,Cardio,25,Moderate
+4,2,Intermediate,None,Water Aerobics,Cardio,30,Moderate
+4,2,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+4,2,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+4,2,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+4,2,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+4,2,Intermediate,Diabetes,Water Aerobics,Cardio,30,Moderate
+4,2,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+4,2,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+4,2,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+4,2,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+4,2,Intermediate,Hypertension,Water Aerobics,Cardio,30,Moderate
+4,2,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+4,2,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+4,2,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+4,2,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+4,2,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+4,2,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+4,2,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+4,2,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+4,2,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+4,2,Intermediate,Anemia,Water Aerobics,Cardio,30,Moderate
+4,2,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+4,2,Active,None,Gentle Walking,Cardio,20,Light
+4,2,Active,None,Prenatal Yoga,Flexibility,30,Light
+4,2,Active,None,Swimming,Cardio,25,Moderate
+4,2,Active,None,Water Aerobics,Cardio,30,Moderate
+4,2,Active,None,Stationary Cycling,Cardio,20,Moderate
+4,2,Active,Diabetes,Gentle Walking,Cardio,20,Light
+4,2,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+4,2,Active,Diabetes,Swimming,Cardio,25,Moderate
+4,2,Active,Diabetes,Water Aerobics,Cardio,30,Moderate
+4,2,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+4,2,Active,Hypertension,Gentle Walking,Cardio,20,Light
+4,2,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+4,2,Active,Hypertension,Swimming,Cardio,25,Moderate
+4,2,Active,Hypertension,Water Aerobics,Cardio,30,Moderate
+4,2,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+4,2,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+4,2,Active,Back Pain,Stretching,Flexibility,20,Light
+4,2,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+4,2,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+4,2,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+4,2,Active,Anemia,Gentle Walking,Cardio,20,Light
+4,2,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+4,2,Active,Anemia,Swimming,Cardio,25,Moderate
+4,2,Active,Anemia,Water Aerobics,Cardio,30,Moderate
+4,2,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+5,2,Beginner,None,Gentle Walking,Cardio,20,Light
+5,2,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+5,2,Beginner,None,Swimming,Cardio,25,Moderate
+5,2,Beginner,None,Water Aerobics,Cardio,30,Moderate
+5,2,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+5,2,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+5,2,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+5,2,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+5,2,Beginner,Diabetes,Water Aerobics,Cardio,30,Moderate
+5,2,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+5,2,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+5,2,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+5,2,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+5,2,Beginner,Hypertension,Water Aerobics,Cardio,30,Moderate
+5,2,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+5,2,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+5,2,Beginner,Back Pain,Stretching,Flexibility,20,Light
+5,2,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+5,2,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+5,2,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+5,2,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+5,2,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+5,2,Beginner,Anemia,Swimming,Cardio,25,Moderate
+5,2,Beginner,Anemia,Water Aerobics,Cardio,30,Moderate
+5,2,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+5,2,Intermediate,None,Gentle Walking,Cardio,20,Light
+5,2,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+5,2,Intermediate,None,Swimming,Cardio,25,Moderate
+5,2,Intermediate,None,Water Aerobics,Cardio,30,Moderate
+5,2,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+5,2,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+5,2,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+5,2,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+5,2,Intermediate,Diabetes,Water Aerobics,Cardio,30,Moderate
+5,2,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+5,2,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+5,2,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+5,2,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+5,2,Intermediate,Hypertension,Water Aerobics,Cardio,30,Moderate
+5,2,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+5,2,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+5,2,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+5,2,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+5,2,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+5,2,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+5,2,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+5,2,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+5,2,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+5,2,Intermediate,Anemia,Water Aerobics,Cardio,30,Moderate
+5,2,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+5,2,Active,None,Gentle Walking,Cardio,20,Light
+5,2,Active,None,Prenatal Yoga,Flexibility,30,Light
+5,2,Active,None,Swimming,Cardio,25,Moderate
+5,2,Active,None,Water Aerobics,Cardio,30,Moderate
+5,2,Active,None,Stationary Cycling,Cardio,20,Moderate
+5,2,Active,Diabetes,Gentle Walking,Cardio,20,Light
+5,2,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+5,2,Active,Diabetes,Swimming,Cardio,25,Moderate
+5,2,Active,Diabetes,Water Aerobics,Cardio,30,Moderate
+5,2,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+5,2,Active,Hypertension,Gentle Walking,Cardio,20,Light
+5,2,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+5,2,Active,Hypertension,Swimming,Cardio,25,Moderate
+5,2,Active,Hypertension,Water Aerobics,Cardio,30,Moderate
+5,2,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+5,2,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+5,2,Active,Back Pain,Stretching,Flexibility,20,Light
+5,2,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+5,2,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+5,2,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+5,2,Active,Anemia,Gentle Walking,Cardio,20,Light
+5,2,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+5,2,Active,Anemia,Swimming,Cardio,25,Moderate
+5,2,Active,Anemia,Water Aerobics,Cardio,30,Moderate
+5,2,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+6,2,Beginner,None,Gentle Walking,Cardio,20,Light
+6,2,Beginner,None,Prenatal Yoga,Flexibility,30,Light
+6,2,Beginner,None,Swimming,Cardio,25,Moderate
+6,2,Beginner,None,Water Aerobics,Cardio,30,Moderate
+6,2,Beginner,None,Stationary Cycling,Cardio,20,Moderate
+6,2,Beginner,Diabetes,Gentle Walking,Cardio,20,Light
+6,2,Beginner,Diabetes,Prenatal Yoga,Flexibility,30,Light
+6,2,Beginner,Diabetes,Swimming,Cardio,25,Moderate
+6,2,Beginner,Diabetes,Water Aerobics,Cardio,30,Moderate
+6,2,Beginner,Diabetes,Stationary Cycling,Cardio,20,Moderate
+6,2,Beginner,Hypertension,Gentle Walking,Cardio,20,Light
+6,2,Beginner,Hypertension,Prenatal Yoga,Flexibility,30,Light
+6,2,Beginner,Hypertension,Swimming,Cardio,25,Moderate
+6,2,Beginner,Hypertension,Water Aerobics,Cardio,30,Moderate
+6,2,Beginner,Hypertension,Stationary Cycling,Cardio,20,Moderate
+6,2,Beginner,Back Pain,Prenatal Yoga,Flexibility,30,Light
+6,2,Beginner,Back Pain,Stretching,Flexibility,20,Light
+6,2,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+6,2,Beginner,Back Pain,Butterfly Pose,Flexibility,15,Light
+6,2,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+6,2,Beginner,Anemia,Gentle Walking,Cardio,20,Light
+6,2,Beginner,Anemia,Prenatal Yoga,Flexibility,30,Light
+6,2,Beginner,Anemia,Swimming,Cardio,25,Moderate
+6,2,Beginner,Anemia,Water Aerobics,Cardio,30,Moderate
+6,2,Beginner,Anemia,Stationary Cycling,Cardio,20,Moderate
+6,2,Intermediate,None,Gentle Walking,Cardio,20,Light
+6,2,Intermediate,None,Prenatal Yoga,Flexibility,30,Light
+6,2,Intermediate,None,Swimming,Cardio,25,Moderate
+6,2,Intermediate,None,Water Aerobics,Cardio,30,Moderate
+6,2,Intermediate,None,Stationary Cycling,Cardio,20,Moderate
+6,2,Intermediate,Diabetes,Gentle Walking,Cardio,20,Light
+6,2,Intermediate,Diabetes,Prenatal Yoga,Flexibility,30,Light
+6,2,Intermediate,Diabetes,Swimming,Cardio,25,Moderate
+6,2,Intermediate,Diabetes,Water Aerobics,Cardio,30,Moderate
+6,2,Intermediate,Diabetes,Stationary Cycling,Cardio,20,Moderate
+6,2,Intermediate,Hypertension,Gentle Walking,Cardio,20,Light
+6,2,Intermediate,Hypertension,Prenatal Yoga,Flexibility,30,Light
+6,2,Intermediate,Hypertension,Swimming,Cardio,25,Moderate
+6,2,Intermediate,Hypertension,Water Aerobics,Cardio,30,Moderate
+6,2,Intermediate,Hypertension,Stationary Cycling,Cardio,20,Moderate
+6,2,Intermediate,Back Pain,Prenatal Yoga,Flexibility,30,Light
+6,2,Intermediate,Back Pain,Stretching,Flexibility,20,Light
+6,2,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+6,2,Intermediate,Back Pain,Butterfly Pose,Flexibility,15,Light
+6,2,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+6,2,Intermediate,Anemia,Gentle Walking,Cardio,20,Light
+6,2,Intermediate,Anemia,Prenatal Yoga,Flexibility,30,Light
+6,2,Intermediate,Anemia,Swimming,Cardio,25,Moderate
+6,2,Intermediate,Anemia,Water Aerobics,Cardio,30,Moderate
+6,2,Intermediate,Anemia,Stationary Cycling,Cardio,20,Moderate
+6,2,Active,None,Gentle Walking,Cardio,20,Light
+6,2,Active,None,Prenatal Yoga,Flexibility,30,Light
+6,2,Active,None,Swimming,Cardio,25,Moderate
+6,2,Active,None,Water Aerobics,Cardio,30,Moderate
+6,2,Active,None,Stationary Cycling,Cardio,20,Moderate
+6,2,Active,Diabetes,Gentle Walking,Cardio,20,Light
+6,2,Active,Diabetes,Prenatal Yoga,Flexibility,30,Light
+6,2,Active,Diabetes,Swimming,Cardio,25,Moderate
+6,2,Active,Diabetes,Water Aerobics,Cardio,30,Moderate
+6,2,Active,Diabetes,Stationary Cycling,Cardio,20,Moderate
+6,2,Active,Hypertension,Gentle Walking,Cardio,20,Light
+6,2,Active,Hypertension,Prenatal Yoga,Flexibility,30,Light
+6,2,Active,Hypertension,Swimming,Cardio,25,Moderate
+6,2,Active,Hypertension,Water Aerobics,Cardio,30,Moderate
+6,2,Active,Hypertension,Stationary Cycling,Cardio,20,Moderate
+6,2,Active,Back Pain,Prenatal Yoga,Flexibility,30,Light
+6,2,Active,Back Pain,Stretching,Flexibility,20,Light
+6,2,Active,Back Pain,Cat-Cow Stretch,Flexibility,15,Light
+6,2,Active,Back Pain,Butterfly Pose,Flexibility,15,Light
+6,2,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+6,2,Active,Anemia,Gentle Walking,Cardio,20,Light
+6,2,Active,Anemia,Prenatal Yoga,Flexibility,30,Light
+6,2,Active,Anemia,Swimming,Cardio,25,Moderate
+6,2,Active,Anemia,Water Aerobics,Cardio,30,Moderate
+6,2,Active,Anemia,Stationary Cycling,Cardio,20,Moderate
+7,3,Beginner,None,Gentle Walking,Cardio,14,Light
+7,3,Beginner,None,Prenatal Yoga,Flexibility,24,Light
+7,3,Beginner,None,Swimming,Cardio,19,Moderate
+7,3,Beginner,None,Water Aerobics,Cardio,24,Moderate
+7,3,Beginner,None,Stationary Cycling,Cardio,14,Moderate
+7,3,Beginner,Diabetes,Gentle Walking,Cardio,14,Light
+7,3,Beginner,Diabetes,Prenatal Yoga,Flexibility,24,Light
+7,3,Beginner,Diabetes,Swimming,Cardio,19,Moderate
+7,3,Beginner,Diabetes,Water Aerobics,Cardio,24,Moderate
+7,3,Beginner,Diabetes,Stationary Cycling,Cardio,14,Moderate
+7,3,Beginner,Hypertension,Gentle Walking,Cardio,14,Light
+7,3,Beginner,Hypertension,Prenatal Yoga,Flexibility,24,Light
+7,3,Beginner,Hypertension,Swimming,Cardio,19,Moderate
+7,3,Beginner,Hypertension,Water Aerobics,Cardio,24,Moderate
+7,3,Beginner,Hypertension,Stationary Cycling,Cardio,14,Moderate
+7,3,Beginner,Back Pain,Prenatal Yoga,Flexibility,24,Light
+7,3,Beginner,Back Pain,Stretching,Flexibility,14,Light
+7,3,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+7,3,Beginner,Back Pain,Butterfly Pose,Flexibility,10,Light
+7,3,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+7,3,Beginner,Anemia,Gentle Walking,Cardio,14,Light
+7,3,Beginner,Anemia,Prenatal Yoga,Flexibility,24,Light
+7,3,Beginner,Anemia,Swimming,Cardio,19,Moderate
+7,3,Beginner,Anemia,Water Aerobics,Cardio,24,Moderate
+7,3,Beginner,Anemia,Stationary Cycling,Cardio,14,Moderate
+7,3,Intermediate,None,Gentle Walking,Cardio,14,Light
+7,3,Intermediate,None,Prenatal Yoga,Flexibility,24,Light
+7,3,Intermediate,None,Swimming,Cardio,19,Moderate
+7,3,Intermediate,None,Water Aerobics,Cardio,24,Moderate
+7,3,Intermediate,None,Stationary Cycling,Cardio,14,Moderate
+7,3,Intermediate,Diabetes,Gentle Walking,Cardio,14,Light
+7,3,Intermediate,Diabetes,Prenatal Yoga,Flexibility,24,Light
+7,3,Intermediate,Diabetes,Swimming,Cardio,19,Moderate
+7,3,Intermediate,Diabetes,Water Aerobics,Cardio,24,Moderate
+7,3,Intermediate,Diabetes,Stationary Cycling,Cardio,14,Moderate
+7,3,Intermediate,Hypertension,Gentle Walking,Cardio,14,Light
+7,3,Intermediate,Hypertension,Prenatal Yoga,Flexibility,24,Light
+7,3,Intermediate,Hypertension,Swimming,Cardio,19,Moderate
+7,3,Intermediate,Hypertension,Water Aerobics,Cardio,24,Moderate
+7,3,Intermediate,Hypertension,Stationary Cycling,Cardio,14,Moderate
+7,3,Intermediate,Back Pain,Prenatal Yoga,Flexibility,24,Light
+7,3,Intermediate,Back Pain,Stretching,Flexibility,14,Light
+7,3,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+7,3,Intermediate,Back Pain,Butterfly Pose,Flexibility,10,Light
+7,3,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+7,3,Intermediate,Anemia,Gentle Walking,Cardio,14,Light
+7,3,Intermediate,Anemia,Prenatal Yoga,Flexibility,24,Light
+7,3,Intermediate,Anemia,Swimming,Cardio,19,Moderate
+7,3,Intermediate,Anemia,Water Aerobics,Cardio,24,Moderate
+7,3,Intermediate,Anemia,Stationary Cycling,Cardio,14,Moderate
+7,3,Active,None,Gentle Walking,Cardio,14,Light
+7,3,Active,None,Prenatal Yoga,Flexibility,24,Light
+7,3,Active,None,Swimming,Cardio,19,Moderate
+7,3,Active,None,Water Aerobics,Cardio,24,Moderate
+7,3,Active,None,Stationary Cycling,Cardio,14,Moderate
+7,3,Active,Diabetes,Gentle Walking,Cardio,14,Light
+7,3,Active,Diabetes,Prenatal Yoga,Flexibility,24,Light
+7,3,Active,Diabetes,Swimming,Cardio,19,Moderate
+7,3,Active,Diabetes,Water Aerobics,Cardio,24,Moderate
+7,3,Active,Diabetes,Stationary Cycling,Cardio,14,Moderate
+7,3,Active,Hypertension,Gentle Walking,Cardio,14,Light
+7,3,Active,Hypertension,Prenatal Yoga,Flexibility,24,Light
+7,3,Active,Hypertension,Swimming,Cardio,19,Moderate
+7,3,Active,Hypertension,Water Aerobics,Cardio,24,Moderate
+7,3,Active,Hypertension,Stationary Cycling,Cardio,14,Moderate
+7,3,Active,Back Pain,Prenatal Yoga,Flexibility,24,Light
+7,3,Active,Back Pain,Stretching,Flexibility,14,Light
+7,3,Active,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+7,3,Active,Back Pain,Butterfly Pose,Flexibility,10,Light
+7,3,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+7,3,Active,Anemia,Gentle Walking,Cardio,14,Light
+7,3,Active,Anemia,Prenatal Yoga,Flexibility,24,Light
+7,3,Active,Anemia,Swimming,Cardio,19,Moderate
+7,3,Active,Anemia,Water Aerobics,Cardio,24,Moderate
+7,3,Active,Anemia,Stationary Cycling,Cardio,14,Moderate
+8,3,Beginner,None,Gentle Walking,Cardio,13,Light
+8,3,Beginner,None,Prenatal Yoga,Flexibility,23,Light
+8,3,Beginner,None,Pelvic Floor Exercises,Strength,10,Light
+8,3,Beginner,None,Stretching,Flexibility,13,Light
+8,3,Beginner,None,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Beginner,Diabetes,Gentle Walking,Cardio,13,Light
+8,3,Beginner,Diabetes,Prenatal Yoga,Flexibility,23,Light
+8,3,Beginner,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+8,3,Beginner,Diabetes,Stretching,Flexibility,13,Light
+8,3,Beginner,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Beginner,Hypertension,Gentle Walking,Cardio,13,Light
+8,3,Beginner,Hypertension,Prenatal Yoga,Flexibility,23,Light
+8,3,Beginner,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+8,3,Beginner,Hypertension,Stretching,Flexibility,13,Light
+8,3,Beginner,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Beginner,Back Pain,Prenatal Yoga,Flexibility,23,Light
+8,3,Beginner,Back Pain,Stretching,Flexibility,13,Light
+8,3,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Beginner,Back Pain,Butterfly Pose,Flexibility,10,Light
+8,3,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+8,3,Beginner,Anemia,Gentle Walking,Cardio,13,Light
+8,3,Beginner,Anemia,Prenatal Yoga,Flexibility,23,Light
+8,3,Beginner,Anemia,Pelvic Floor Exercises,Strength,10,Light
+8,3,Beginner,Anemia,Stretching,Flexibility,13,Light
+8,3,Beginner,Anemia,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Intermediate,None,Gentle Walking,Cardio,13,Light
+8,3,Intermediate,None,Prenatal Yoga,Flexibility,23,Light
+8,3,Intermediate,None,Pelvic Floor Exercises,Strength,10,Light
+8,3,Intermediate,None,Stretching,Flexibility,13,Light
+8,3,Intermediate,None,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Intermediate,Diabetes,Gentle Walking,Cardio,13,Light
+8,3,Intermediate,Diabetes,Prenatal Yoga,Flexibility,23,Light
+8,3,Intermediate,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+8,3,Intermediate,Diabetes,Stretching,Flexibility,13,Light
+8,3,Intermediate,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Intermediate,Hypertension,Gentle Walking,Cardio,13,Light
+8,3,Intermediate,Hypertension,Prenatal Yoga,Flexibility,23,Light
+8,3,Intermediate,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+8,3,Intermediate,Hypertension,Stretching,Flexibility,13,Light
+8,3,Intermediate,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Intermediate,Back Pain,Prenatal Yoga,Flexibility,23,Light
+8,3,Intermediate,Back Pain,Stretching,Flexibility,13,Light
+8,3,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Intermediate,Back Pain,Butterfly Pose,Flexibility,10,Light
+8,3,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+8,3,Intermediate,Anemia,Gentle Walking,Cardio,13,Light
+8,3,Intermediate,Anemia,Prenatal Yoga,Flexibility,23,Light
+8,3,Intermediate,Anemia,Pelvic Floor Exercises,Strength,10,Light
+8,3,Intermediate,Anemia,Stretching,Flexibility,13,Light
+8,3,Intermediate,Anemia,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Active,None,Gentle Walking,Cardio,13,Light
+8,3,Active,None,Prenatal Yoga,Flexibility,23,Light
+8,3,Active,None,Pelvic Floor Exercises,Strength,10,Light
+8,3,Active,None,Stretching,Flexibility,13,Light
+8,3,Active,None,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Active,Diabetes,Gentle Walking,Cardio,13,Light
+8,3,Active,Diabetes,Prenatal Yoga,Flexibility,23,Light
+8,3,Active,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+8,3,Active,Diabetes,Stretching,Flexibility,13,Light
+8,3,Active,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Active,Hypertension,Gentle Walking,Cardio,13,Light
+8,3,Active,Hypertension,Prenatal Yoga,Flexibility,23,Light
+8,3,Active,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+8,3,Active,Hypertension,Stretching,Flexibility,13,Light
+8,3,Active,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Active,Back Pain,Prenatal Yoga,Flexibility,23,Light
+8,3,Active,Back Pain,Stretching,Flexibility,13,Light
+8,3,Active,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+8,3,Active,Back Pain,Butterfly Pose,Flexibility,10,Light
+8,3,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+8,3,Active,Anemia,Gentle Walking,Cardio,13,Light
+8,3,Active,Anemia,Prenatal Yoga,Flexibility,23,Light
+8,3,Active,Anemia,Pelvic Floor Exercises,Strength,10,Light
+8,3,Active,Anemia,Stretching,Flexibility,13,Light
+8,3,Active,Anemia,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Beginner,None,Gentle Walking,Cardio,12,Light
+9,3,Beginner,None,Prenatal Yoga,Flexibility,22,Light
+9,3,Beginner,None,Pelvic Floor Exercises,Strength,10,Light
+9,3,Beginner,None,Stretching,Flexibility,12,Light
+9,3,Beginner,None,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Beginner,Diabetes,Gentle Walking,Cardio,12,Light
+9,3,Beginner,Diabetes,Prenatal Yoga,Flexibility,22,Light
+9,3,Beginner,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+9,3,Beginner,Diabetes,Stretching,Flexibility,12,Light
+9,3,Beginner,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Beginner,Hypertension,Gentle Walking,Cardio,12,Light
+9,3,Beginner,Hypertension,Prenatal Yoga,Flexibility,22,Light
+9,3,Beginner,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+9,3,Beginner,Hypertension,Stretching,Flexibility,12,Light
+9,3,Beginner,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Beginner,Back Pain,Prenatal Yoga,Flexibility,22,Light
+9,3,Beginner,Back Pain,Stretching,Flexibility,12,Light
+9,3,Beginner,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Beginner,Back Pain,Butterfly Pose,Flexibility,10,Light
+9,3,Beginner,Back Pain,Deep Breathing,Relaxation,10,Light
+9,3,Beginner,Anemia,Gentle Walking,Cardio,12,Light
+9,3,Beginner,Anemia,Prenatal Yoga,Flexibility,22,Light
+9,3,Beginner,Anemia,Pelvic Floor Exercises,Strength,10,Light
+9,3,Beginner,Anemia,Stretching,Flexibility,12,Light
+9,3,Beginner,Anemia,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Intermediate,None,Gentle Walking,Cardio,12,Light
+9,3,Intermediate,None,Prenatal Yoga,Flexibility,22,Light
+9,3,Intermediate,None,Pelvic Floor Exercises,Strength,10,Light
+9,3,Intermediate,None,Stretching,Flexibility,12,Light
+9,3,Intermediate,None,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Intermediate,Diabetes,Gentle Walking,Cardio,12,Light
+9,3,Intermediate,Diabetes,Prenatal Yoga,Flexibility,22,Light
+9,3,Intermediate,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+9,3,Intermediate,Diabetes,Stretching,Flexibility,12,Light
+9,3,Intermediate,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Intermediate,Hypertension,Gentle Walking,Cardio,12,Light
+9,3,Intermediate,Hypertension,Prenatal Yoga,Flexibility,22,Light
+9,3,Intermediate,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+9,3,Intermediate,Hypertension,Stretching,Flexibility,12,Light
+9,3,Intermediate,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Intermediate,Back Pain,Prenatal Yoga,Flexibility,22,Light
+9,3,Intermediate,Back Pain,Stretching,Flexibility,12,Light
+9,3,Intermediate,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Intermediate,Back Pain,Butterfly Pose,Flexibility,10,Light
+9,3,Intermediate,Back Pain,Deep Breathing,Relaxation,10,Light
+9,3,Intermediate,Anemia,Gentle Walking,Cardio,12,Light
+9,3,Intermediate,Anemia,Prenatal Yoga,Flexibility,22,Light
+9,3,Intermediate,Anemia,Pelvic Floor Exercises,Strength,10,Light
+9,3,Intermediate,Anemia,Stretching,Flexibility,12,Light
+9,3,Intermediate,Anemia,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Active,None,Gentle Walking,Cardio,12,Light
+9,3,Active,None,Prenatal Yoga,Flexibility,22,Light
+9,3,Active,None,Pelvic Floor Exercises,Strength,10,Light
+9,3,Active,None,Stretching,Flexibility,12,Light
+9,3,Active,None,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Active,Diabetes,Gentle Walking,Cardio,12,Light
+9,3,Active,Diabetes,Prenatal Yoga,Flexibility,22,Light
+9,3,Active,Diabetes,Pelvic Floor Exercises,Strength,10,Light
+9,3,Active,Diabetes,Stretching,Flexibility,12,Light
+9,3,Active,Diabetes,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Active,Hypertension,Gentle Walking,Cardio,12,Light
+9,3,Active,Hypertension,Prenatal Yoga,Flexibility,22,Light
+9,3,Active,Hypertension,Pelvic Floor Exercises,Strength,10,Light
+9,3,Active,Hypertension,Stretching,Flexibility,12,Light
+9,3,Active,Hypertension,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Active,Back Pain,Prenatal Yoga,Flexibility,22,Light
+9,3,Active,Back Pain,Stretching,Flexibility,12,Light
+9,3,Active,Back Pain,Cat-Cow Stretch,Flexibility,10,Light
+9,3,Active,Back Pain,Butterfly Pose,Flexibility,10,Light
+9,3,Active,Back Pain,Deep Breathing,Relaxation,10,Light
+9,3,Active,Anemia,Gentle Walking,Cardio,12,Light
+9,3,Active,Anemia,Prenatal Yoga,Flexibility,22,Light
+9,3,Active,Anemia,Pelvic Floor Exercises,Strength,10,Light
+9,3,Active,Anemia,Stretching,Flexibility,12,Light
+9,3,Active,Anemia,Cat-Cow Stretch,Flexibility,10,Light
